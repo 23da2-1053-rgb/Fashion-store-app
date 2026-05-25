@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202516331845",
+    "project_id": "thiya-fashion-stores",
+    "storage_bucket": "thiya-fashion-stores.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202516331845:android:4099a7443666d32cd5122c",
+        "android_client_info": {
+          "package_name": "com.example.fashion_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeiLDCF9o5rD523B3il0nr67qIacrsSeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202516331845:android:a21ec144cc0cdb9ed5122c",
+        "android_client_info": {
+          "package_name": "com.example.thiya_fashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeiLDCF9o5rD523B3il0nr67qIacrsSeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
